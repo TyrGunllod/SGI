@@ -47,8 +47,10 @@ source venv/bin/activate
 
 ### 3. Instalar dependências
 
+No seu terminal, dentro da pasta /backend, execute:
+
 ```bash
-pip install -r backend/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 4. Configurar variáveis de ambiente
