@@ -31,6 +31,8 @@ cd SGI
 
 ### 2. Configurar ambiente virtual
 
+No seu terminal, dentro da pasta /backend, execute:
+
 #### Windows
 
 ```bash
@@ -46,8 +48,6 @@ source venv/bin/activate
 ```
 
 ### 3. Instalar dependências
-
-No seu terminal, dentro da pasta /backend, execute:
 
 ```bash
 pip install -r requirements.txt

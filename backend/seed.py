@@ -24,8 +24,8 @@ async def create_first_user():
 
     async with async_session() as session:
 
-        username = "admin"
-        password = "admin123"
+        username = "superuser"
+        password = "1234567890"
 
         # 🔎 verifica se já existe
         result = await session.execute(
